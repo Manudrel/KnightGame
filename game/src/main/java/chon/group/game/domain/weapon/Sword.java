@@ -30,7 +30,7 @@ public class Sword extends CloseWeapon {
                 0,
                 "/images/weapons/slash/SlashTeste.png",
                 false,
-                1000,
+                2500,
                 direction,
                 owner);
     }

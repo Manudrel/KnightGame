@@ -29,7 +29,7 @@ public class GameSet {
     private Environment environment;
     private Panel panel;
     private Agent agentBase;
-    private static int weaponDecision = 1; // Default weapon decision for slash
+    private static int weaponDecision = 2; // Default weapon decision for slash
 
     public GameSet() {
         this.load();
