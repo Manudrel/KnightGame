@@ -1,9 +1,12 @@
 
 # Knight Game
 
-Um jogo 2D de ação em pixel art desenvolvido em Java, criado para fins educacionais e inspirado em clássicos de fantasia medieval.
+**Um jogo 2D de ação em pixel art desenvolvido em Java, criado para fins educacionais e inspirado em Shovel Knight**
+
+<img width="1126" height="691" alt="KnightGame1" src="https://github.com/user-attachments/assets/e22594a7-d52b-4e80-8076-7a1608c5dad3" />
 
 ---
+
 
 ## 📖 Sobre o Jogo
 
@@ -36,8 +39,8 @@ Características principais:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/Manudrel/knight-game.git
-cd knight-game
+git clone https://github.com/Manudrel/KnightGame.git
+cd KnightGame
 git checkout main
 ```
 
@@ -69,17 +72,17 @@ git checkout main
 * **ChonEngine** (motor gráfico)
 * **Assets** de pixel art de fontes gratuitas
 
----
+--- 
 
 ## 📜 Créditos
 
 **Sprites:**
 
-* **Protagonista**: [Sprite Sheet](https://www.spriters-resource.com/fullview/129671)
-* **Plague Knight**: [Sprite Sheet](https://www.spriters-resource.com/fullview/77380)
-* **Esqueletos**: [Sprite Sheet](https://www.spriters-resource.com/pc_computer/shovelknight/sheet/67157)
-* **Chefe (Boss)**: [Sprite Sheet](https://www.spriters-resource.com/fullview/67063)
-* **Itens**: [Sprite Sheet](https://www.spriters-resource.com/fullview/129671)
+* **Protagonista**: [Sprite Resource/Shovel Knight](https://www.spriters-resource.com/fullview/129671)
+* **Plague Knight**: [Sprite Resource/Shovel Knight](https://www.spriters-resource.com/fullview/77380)
+* **Esqueletos**: [Sprite Resource/Shovel Knight](https://www.spriters-resource.com/pc_computer/shovelknight/sheet/67157)
+* **Chefe (Boss)**: [Sprite Resource/Shovel Knight](https://www.spriters-resource.com/fullview/67063)
+* **Itens**: [Sprite Resource/Shovel Knight](https://www.spriters-resource.com/fullview/129671)
 * **Cenários / Mapas**: [CraftPix.net](https://craftpix.net/freebies/free-pixel-art-fantasy-2d-battlegrounds/)
 * **Imagens do Menu**: [Shovel Knight Wiki](https://shovelknight.fandom.com/wiki/King_Knight)
 
@@ -98,10 +101,8 @@ git checkout main
 
 ---
 
-## 🙏 Agradecimentos Especiais
+## Agradecimentos
 
-* Professor **Carlos Pantoja** pela orientação no desenvolvimento do projeto.
+* Professor **Carlos Eduardo Pantoja** pela orientação no desenvolvimento do projeto.
 
 ---
-
-Se quiser, posso também já fazer a **versão em inglês** para facilitar na hora de colocar no GitHub e atrair mais público. Isso deixaria seu repositório mais profissional. Quer que eu já prepare?
