@@ -1,8 +1,5 @@
-Segue um README baseado no modelo que você me enviou, mas adaptado para o seu **Knight Game**:
 
----
-
-# Knight Game ⚔️🎮
+# Knight Game
 
 Um jogo 2D de ação em pixel art desenvolvido em Java, criado para fins educacionais e inspirado em clássicos de fantasia medieval.
 
