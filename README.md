@@ -1,5 +1,5 @@
 
-# Knight Game
+# Knight Game ⚔️
 
 **Um jogo 2D de ação em pixel art desenvolvido em Java, criado para fins educacionais e inspirado em Shovel Knight**
 
@@ -29,12 +29,12 @@ Características principais:
 
 ## ⚙️ Requisitos e Instalação
 
-### 📋 Pré-requisitos
+### 🗒️ Pré-requisitos
 
 * **Java JDK 8** ou superior
 * IDE (IntelliJ, Eclipse) ou **VS Code** com extensões Java
 
-### 🚀 Como Executar
+### 🖥️ Como Executar
 
 Clone o repositório:
 
@@ -66,7 +66,7 @@ git checkout main
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 👨‍💻 Tecnologias Utilizadas
 
 * **Java 8+** (Programação Orientada a Objetos)
 * **ChonEngine** (motor gráfico)
